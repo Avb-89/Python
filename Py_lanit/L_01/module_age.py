@@ -4,3 +4,4 @@ while not age.isdigit():
     print('Укажите число пожалуйста')
     age = input('')
 
+
