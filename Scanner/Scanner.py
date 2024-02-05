@@ -16,4 +16,4 @@ while True:
         print('Извините, штрих код не подходит, попробуйте другой')
     else:
         print(i, file=file_1)
-#test
+
