@@ -1,0 +1,10 @@
+print("Hello World")
+
+print("сложение 3 + 4")
+print(3 + 4)
+print("умновжене 3 * 5")
+print(3 * 5)
+print("деление 15 / 3")
+print(15 / 3)
+print("число в квадрате 3 ** 3")
+print(3 ** 3)
