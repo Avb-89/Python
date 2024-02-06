@@ -16,4 +16,3 @@ summ=int(chislo_1) + int(chislo_2)
 sub=int(chislo_1) - int(chislo_2)
 multiply=int(chislo_1) * int(chislo_2)
 div=int(chislo_1) / int(chislo_2)
-cycle = 1
