@@ -4,9 +4,9 @@
 # число N и выводит на экран линию из N символов '–'. \
 # Пример: Введите N: 10 ----------
 
-n=int(input("введи длину разделения, 1 = одна черточка  \n"))
-def separate():
+
+def separate(n):
     sep = "-" * n
     return sep
 
-print(separate())
+print(separate(int(input('Введите число - длину которую хотите, 1 = - \n'))))
